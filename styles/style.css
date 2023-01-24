@@ -65,6 +65,7 @@ a {
   h1 {
     font-size: 2rem;
     letter-spacing: 1px;
+    margin-bottom: 2rem;
   }
   .countdown-container {
     margin-top: 5px;
