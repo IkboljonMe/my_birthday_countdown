@@ -1,4 +1,4 @@
-const myBirthDay = "23 Oct 2023";
+const myBirthDay = "5 May 2023";
 const daysText = document.querySelector("#days"),
   hoursText = document.querySelector("#hours"),
   minutesText = document.querySelector("#minutes"),
